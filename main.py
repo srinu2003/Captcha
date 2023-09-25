@@ -3,7 +3,7 @@ from io import BytesIO
 
 def main() -> None:
     text: str = 'kill'
-
+    text = input('Enter text:')
     captcha: ImageCaptcha = ImageCaptcha(width = 400,
                                          height = 200,
                                          font_sizes=(40, 70, 100))

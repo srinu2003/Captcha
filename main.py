@@ -8,8 +8,7 @@ def main() -> None:
                                          height = 200,
                                          fonts=['Arial',
                                                 'Perpetua',
-                                                'Rockwell',
-                                                'Terminal'],
+                                                'Rockwell'],
                                          font_sizes=(40, 70, 100))
     captcha.write(text,'captcha.png')
 

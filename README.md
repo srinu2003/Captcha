@@ -1,3 +1,3 @@
 # Captcha generater
 
-![Alt text](captcha.png)
+![](<captcha.png>)
